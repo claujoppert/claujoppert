@@ -40,6 +40,4 @@ I'm always excited to discuss data, analytics, and new opportunities. Feel free 
 - **Email**: [ccjoppert@gmail.com](mailto:ccjoppert@gmail.com)
 - **GitHub**: [claujoppert](https://github.com/claujoppert)
 
----
 
-Feel free to tweak any of the details or project descriptions to better fit your personal style and experiences. This README should give visitors a solid overview of your skills and enthusiasm for data analysis!
