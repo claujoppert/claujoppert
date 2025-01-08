@@ -38,6 +38,5 @@ I'm always excited to discuss data, analytics, and new opportunities. Feel free 
 ## 📫 Contact
 
 - **Email**: [ccjoppert@gmail.com](mailto:ccjoppert@gmail.com)
-- **GitHub**: [claujoppert](https://github.com/claujoppert)
 
 
