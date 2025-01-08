@@ -11,7 +11,7 @@ Hi there! 👋 I'm Claudia, a passionate data analyst with a knack for turning r
   
 - **Python**: Whether it's for data cleaning, analysis, or visualization, Python is my Swiss Army knife. Libraries like Pandas, NumPy, and Matplotlib are my go-to companions for building robust data workflows.
 
-- **Tableau**: I create interactive dashboards that bring data to life. With Tableau, I design intuitive visualizations that make it easy for stakeholders to understand and act on data [Tableau Portfolio](https://public.tableau.com/app/profile/claudia.joppert/vizzes).
+- **[Tableau](https://public.tableau.com/app/profile/claudia.joppert/vizzes)**: I create interactive dashboards that bring data to life. With Tableau, I design intuitive visualizations that make it easy for stakeholders to understand and act on data.
 
 ## 🔍 Project Highlights
 
