@@ -33,7 +33,7 @@ Data cleaning and preprocessing of auto insurance datasets to improve data quali
 
 ## 🌟 Let's Connect!
 
-I'm always excited to discuss data, analytics, and new opportunities. Feel free to reach out or connect with me on [LinkedIn](claudia-joppert) or [Twitter](@claujoppert).
+I'm always excited to discuss data, analytics, and new opportunities. Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/claudia-joppert-888568161/).
 
 ## 📫 Contact
 
