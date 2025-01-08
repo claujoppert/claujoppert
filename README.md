@@ -15,14 +15,14 @@ Hi there! 👋 I'm Claudia, a passionate data analyst with a knack for turning r
 
 ## 🔍 Projects & Highlights
 
-### 📈 [Project Name]
-A brief description of the project, showcasing how SQL, Python, or Tableau was used to solve a particular problem or achieve a specific goal.
+### 📈 CardioGood Fitness Customer Analysis 
+Performed exploratory data analysis using Python on CardioGood Fitness customer data to profile buyers of three treadmill models, uncovering trends in demographics, income, fitness levels, and usage patterns to inform targeted marketing strategies.
 
-### 🧩 [Another Project]
-Highlight another interesting project with a quick overview of your approach and the impact it made.
+### 🧩 Superstore Sales Dashboard 
+Developed an interactive Tableau dashboard to analyze Superstore data, highlighting key insights on sales, profitability, and regional performance to drive data-driven business decisions.
 
-### 🌟 [One More Project]
-Share an engaging project that demonstrates your skills and creativity in data analysis.
+### 🌟 Auto Insurance Data Cleaning 
+Data cleaning and preprocessing of auto insurance datasets to improve data quality for analysis and model training, including handling missing values, correcting data inconsistencies, and standardizing formats.
 
 ## 🛠️ Skills & Tools
 
