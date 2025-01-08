@@ -26,10 +26,10 @@ Data cleaning and preprocessing of auto insurance datasets to improve data quali
 
 ## 🛠️ Skills & Tools
 
-- **SQL**: Advanced querying, database management
+- **SQL**: Aggregations, JOINS, Filtering & Sorting, Window Functions 
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn
 - **Tableau**: Dashboard creation, data visualization
-- **Other Tools**: Git, Jupyter Notebooks, Excel
+- **Other Tools**: Google Analytics 4, Big Query, Looker, Excel
 
 ## 🌟 Let's Connect!
 
