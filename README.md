@@ -18,7 +18,7 @@ Hi there! 👋 I'm Claudia, a passionate data analyst with a knack for turning r
 ### 📈 CardioGood Fitness Customer Analysis 
 Performed exploratory data analysis using Python on CardioGood Fitness customer data to profile buyers of three treadmill models, uncovering trends in demographics, income, fitness levels, and usage patterns to inform targeted marketing strategies.
 
-### 🧩 Superstore Sales Dashboard 
+### 🧩 [Superstore Sales Dashboard](https://public.tableau.com/app/profile/claudia.joppert/viz/Superstore_17283556139170/Dashboard1)
 Developed an interactive Tableau dashboard to analyze Superstore data, highlighting key insights on sales, profitability, and regional performance to drive data-driven business decisions.
 
 ### 🌟 Auto Insurance Data Cleaning 
