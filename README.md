@@ -13,7 +13,7 @@ Hi there! 👋 I'm Claudia, a passionate data analyst with a knack for turning r
 
 - **Tableau**: I create interactive dashboards that bring data to life. With Tableau, I design intuitive visualizations that make it easy for stakeholders to understand and act on data. [Tableau Portfolio](https://public.tableau.com/app/profile/claudia.joppert/vizzes)
 
-## 🔍 Projects Highlights
+## 🔍 Project Highlights
 
 ### 📈 CardioGood Fitness Customer Analysis 
 Performed exploratory data analysis using Python on CardioGood Fitness customer data to profile buyers of three treadmill models, uncovering trends in demographics, income, fitness levels, and usage patterns to inform targeted marketing strategies.
